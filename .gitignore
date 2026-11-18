@@ -1,0 +1,7 @@
+build/
+data/*
+!data/.gitkeep
+results/raw/
+*.o
+.DS_Store
+__pycache__/
